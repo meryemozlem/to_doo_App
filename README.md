@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<H5>Features: Adding new tasks. Task filtering. Deleting a task. \n
+<H5>Features: Adding new tasks. Task filtering. Deleting a task. 
   Özellikler: Yeni görev ekleme. Görev filtreleme. Görev silme. </H5>
 
 ![Ekran görüntüsü 2023-09-02 011749](https://github.com/meryemozlem/to_doo_App/assets/82104183/b522fe50-4f14-4247-94c5-8f998666c6f0)
